@@ -1,1 +1,65 @@
-theme: jekyll-theme-cayman
+url: http://www.biryaniqissa.com/restaurant
+baseurl: /restaurant
+
+# Site settings
+title: Biryani Qissa
+email: biryaniqissa@gmail.com
+description: "Stories, Spice and Everything Nice"
+
+
+# Team names, titles and social links
+people:
+- name: Kay Garland
+  pic: 1
+  position: Lead Designer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+
+- name: Larry Parker
+  pic: 2
+  position: Lead Marketer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+- name: Diana Petersen
+  pic: 3
+  position: Lead Developer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: instagram
+    url: http://instagram.com/dulceysalado
+    icon: fa-instagram
+  - title: twitter
+    url: http://twitter.com/dulceysalado
+    icon: fa-twitter-square
+  - title: facebook
+    url: http://facebook.com/dulceysalado
+    icon: fa-facebook-square
+
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Carrera 21 #22-64
+  - line: El Retiro Antioquia
+
+# Build settings
+markdown: kramdown
+permalink: pretty
